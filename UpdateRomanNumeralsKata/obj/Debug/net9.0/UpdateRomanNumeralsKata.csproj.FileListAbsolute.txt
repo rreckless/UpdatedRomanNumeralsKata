@@ -1,0 +1,14 @@
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/bin/Debug/net9.0/UpdateRomanNumeralsKata
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/bin/Debug/net9.0/UpdateRomanNumeralsKata.deps.json
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/bin/Debug/net9.0/UpdateRomanNumeralsKata.runtimeconfig.json
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/bin/Debug/net9.0/UpdateRomanNumeralsKata.dll
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/bin/Debug/net9.0/UpdateRomanNumeralsKata.pdb
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.AssemblyInfoInputs.cache
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.AssemblyInfo.cs
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.csproj.CoreCompileInputs.cache
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.dll
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/refint/UpdateRomanNumeralsKata.dll
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.pdb
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/UpdateRomanNumeralsKata.genruntimeconfig.cache
+/Users/robreckless/Documents/Personal Git/UpdatedRomanNumeralsKata/UpdateRomanNumeralsKata/obj/Debug/net9.0/ref/UpdateRomanNumeralsKata.dll
